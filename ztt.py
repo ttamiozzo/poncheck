@@ -15,7 +15,7 @@ socketio = SocketIO(app, async_mode="threading")
 onu_results = []
 
 ip = '10.177.55.2'
-community = 'ttamiozzo-vrn'
+community = 'public'
 version = 2  # Or the SNMP version you are using
 #port_name = sys.argv[1]
 
