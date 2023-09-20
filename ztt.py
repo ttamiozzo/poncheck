@@ -166,4 +166,3 @@ def handle_onu_results(data):
 
 if __name__ == '__main__':
     socketio.run(app, host='0.0.0.0', port=8292, debug=True, allow_unsafe_werkzeug=True)
-09:57:32>root@168-194-82-12:/poncheck 
